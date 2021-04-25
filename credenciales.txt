@@ -1,0 +1,3 @@
+Usuario		Contraseña		Rol
+mvega 	 - 	pswmarco123		Administrador
+dmendoza -	psw32d			Gestor
